@@ -13,8 +13,8 @@ Este projeto é uma aplicação baseada em Streamlit para gerenciar modelos e li
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seuusuario/sistema-gestao-email.git
-    cd sistema-gestao-email
+    git clone https://github.com/seuusuario/central_emails_software.git
+    cd central_emails_software
     ```
 
 2. Instale os pacotes necessários:
